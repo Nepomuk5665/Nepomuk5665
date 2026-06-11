@@ -15,17 +15,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nepomuk5665&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nepomuk5665&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-
-<!--
-  TROPHIES — the public github-profile-trophy server is currently disabled (DEPLOYMENT_DISABLED).
-  When it's back online, uncomment the block below and they'll appear:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nepomuk5665&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
-</p>
--->
