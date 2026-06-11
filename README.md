@@ -19,11 +19,6 @@
   <img src="https://streak-stats.demolab.com?user=Nepomuk5665&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nepomuk5665&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nepomuk5665&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nepomuk5665&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
 <!--
